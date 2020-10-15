@@ -37,7 +37,7 @@ npm install
 - Abrir XAMPP y asegurarse que el puerto sobre el cual se está ejecutando es el `3306`
 - Inicializar los servicios de Apache y MySQL
 - Abrir el panel de control del servicio MySQL
-- Generar una nueva base de datos llamada `delilaResto` desde el panel de control con contraseña si es posible o sin
+- Generar una nueva base de datos llamada `delilahResto` desde el panel de control con contraseña si es posible o sin
 - Abrir el archivo queries y ejecutar cada sentencia 
 
 ### 4 - Iniciando el servidor
